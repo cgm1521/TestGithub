@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="test_maven"
+  name="TestGithub"
   id="myeclipse.1342926174974"
   context-root="/test_maven"
   j2ee-spec="6.0"
-  archive="test_maven.war">
+  archive="TestGithub.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
   </attributes>
