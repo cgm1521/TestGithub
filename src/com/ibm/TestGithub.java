@@ -1,14 +1,14 @@
 package com.ibm;
 
 /**
- * ²âÊÔgithub
+ * æµ‹è¯•Github
  * @author CuiGuiming
  *
  */
 public class TestGithub {
 
 	/**
-	 * main·½·¨
+	 * mainæ–¹æ³•
 	 * @param args
 	 */
 	public static void main(String[] args) {
